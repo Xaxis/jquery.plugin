@@ -42,7 +42,7 @@ module.exports = function(grunt) {
           }
         },
         files: {
-          'dist/jquery.devgrid.min.js': ['src/jquery.plugin.js']
+          'dist/jquery.plugin.min.js': ['src/jquery.plugin.js']
         }
       }
     },
